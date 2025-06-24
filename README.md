@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shadow</h1>
-<h3 align="center">I'm a computer science student exploring all corners of the tech world — from programming and content creation tools to core computer science concepts</h3>
+<h3 align="left">I'm a computer science student exploring all corners of the tech world — from programming and content creation tools to core computer science concepts</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itzshadow23&label=Profile%20views&color=5533ff&style=flat" alt="itzshadow23" /> </p>
 
@@ -15,4 +15,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itzshadow23&show_icons=true&theme=dark&bg_color=000000&locale=en" alt="itzshadow23" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itzshadow23&show_icons=true&theme=dark&locale=en&layout=compact" alt="itzshadow23" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itzshadow23&theme=dark" alt="itzshadow23" /></p>
